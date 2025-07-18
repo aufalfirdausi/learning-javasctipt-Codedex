@@ -11,5 +11,4 @@ while (guess !== luckyNumber) {
 console.log(`My lucky number is ${luckyNumber}`)
 
 
-
  
